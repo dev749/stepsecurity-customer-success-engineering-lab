@@ -1,0 +1,5 @@
+2026-07-29T08:14:13Z ##[group]Publish diagnostic result
+2026-07-29T08:14:14Z Request failed: Resource not accessible by integration (403)
+2026-07-29T08:14:14Z The GITHUB_TOKEN may have insufficient permission for this API.
+2026-07-29T08:14:14Z Secondary check: request to api.example.invalid timed out.
+2026-07-29T08:14:15Z Process completed with exit code 1.
